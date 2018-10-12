@@ -1,0 +1,3 @@
+C:/Users/cyber/CLionProjects/tinh-chieu-dai-canh-huyen/cmake-build-debug/CMakeFiles/tinh_chieu_dai_canh_huyen.dir
+C:/Users/cyber/CLionProjects/tinh-chieu-dai-canh-huyen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cyber/CLionProjects/tinh-chieu-dai-canh-huyen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

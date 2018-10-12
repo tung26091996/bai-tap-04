@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/cyber/CLionProjects/tinh-chieu-dai-canh-huyen/main.c
+stdio.h
+-
+stdbool.h
+-
+math.h
+-
+
